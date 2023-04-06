@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dariia</h1>
-<h3 align="center">A passionate frontend developer from Ukraine <img src="https://emojiguide.com/flags/flag-ukraine/" /></h3>
+<h3 align="center">A passionate frontend developer from Ukraine <img src="https://emojiguide.com/wp-content/uploads/platform/twitter/44352.png" /></h3>
 <img align="right" alt="codding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariia-zhukovska&label=Profile%20views&color=0e75b6&style=plastic" alt="dariia-zhukovska" /> </p>
