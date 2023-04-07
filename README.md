@@ -107,6 +107,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dariia-zhukovska&show_icons=true&locale=en" alt="dariia-zhukovska" /></p>
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dariia-zhukovska&theme=zenburn)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dariia-zhukovska&theme=zenburn)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dariia-zhukovska&theme=zenburn)
+
 
 
 
