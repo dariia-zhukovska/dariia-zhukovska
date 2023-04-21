@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"  />
   
 ###
 
@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <img height="25" src="https://cloudcauldron.io/advice/test.php?"  />
+  <img height="20" src="https://cloudcauldron.io/advice/test.php?"  />
 </div>
 
 ###
