@@ -58,8 +58,8 @@
 ###
 
 <p align="left">
-  ▪️  <a href="https://dariia-zhukovska.github.io/prometheus-x-course-task/" target="_blank">Evclid</a> - SPA of bookstore developed using React, TypeScript, Router,      Jest <br> <br>
-  ▪️ <a href="https://dariia-zhukovska.github.io/Evclid/" target="_blank">Bookstore</a>- Responsive landing page in HTML, CSS, JavaScript, jQuery plugin 
+  ▪️  <a href="https://dariia-zhukovska.github.io/prometheus-x-course-task/" target="_blank">Bookstore</a> - SPA of bookstore developed using React, TypeScript, Router,      Jest <br> <br>
+  ▪️ <a href="https://dariia-zhukovska.github.io/Evclid/" target="_blank">Evclid</a>- Responsive landing page in HTML, CSS, JavaScript, jQuery plugin 
  </p>
 
 ###
