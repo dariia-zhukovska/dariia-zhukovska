@@ -61,7 +61,7 @@
   ▪️  <a href="https://dariia-zhukovska.github.io/prometheus-x-course-task/" target="_blank">Bookstore</a> — SPA of bookstore developed using React, TypeScript, Router,      Jest <br> 
   ▪️ <a href="https://dariia-zhukovska.github.io/Evclid/" target="_blank">Evclid</a> — Responsive landing page in HTML, CSS, JavaScript, jQuery plugin  <br> 
   ▪️ <a href="https://countries-flags-app-rtk.vercel.app/" target="_blank">Countries flags app</a> — SPA developed using React, Redux Toolkit, Redux Asynk Thunk, Router  <br> 
-   ▪️ <a href="https://redux-job-listing-app.vercel.app/" target="_blank">Job listing app</a> — SPA build using React and Redux Toolkit  <br> 
+   ▪️ <a href="https://redux-job-listing-app.vercel.app/" target="_blank">Job listing app</a> — SPA developed using React and Redux Toolkit  <br> 
  </p>
 
 ###
