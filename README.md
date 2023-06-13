@@ -8,9 +8,6 @@
 
 <p align="left">💙 Passionate Front-end Developer from Ukraine 💛<br>✨ Creating bugs since 2021<br>📚 I'm currently learning Next.js<br>🎯 Goals: to find my first job <br>🎲 Fun fact:  In my youth, I visited 9 countries in 1 month with only €100 in my pocket.</p>
 
-
-
-
 ###
 
 <h2 align="left">My toolkit</h2>
